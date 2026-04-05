@@ -1,5 +1,4 @@
-public class Intern {
-    public class Intern extends Employee {
+public class Intern extends Employee {
 
         public static final double MAX_SALARY = 20000;
 
@@ -21,4 +20,3 @@ public class Intern {
             }
         }
     }
-}
