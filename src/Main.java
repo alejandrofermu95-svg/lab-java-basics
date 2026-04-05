@@ -6,7 +6,7 @@ public class Main {
         ArrayList<Employee> employees = new ArrayList<>();
 
         employees.add(new Employee("Laura", 25, 30000, "Manager"));
-        employees.add(new Employee("Maria", 29, 32000, "HR"));
+        employees.add(new Employee("Maria", 29, 31000, "HR"));
         employees.add(new Employee("Dani", 33, 28000, "Developer"));
         employees.add(new Employee("Ivan", 36, 31000, "Designer"));
         employees.add(new Employee("Fofo", 33, 35000, "Team Lead"));

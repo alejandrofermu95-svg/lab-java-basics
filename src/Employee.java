@@ -44,9 +44,6 @@ public class Employee {
         }
 
         public void printInfo() {
-            System.out.println("Name: " + name +
-                    ", Age: " + age +
-                    ", Salary: " + salary +
-                    ", Position: " + position);
+            System.out.println("Name: " + name + ", Age: " + age + ", Salary: " + salary + ", Position: " + position);
         }
     }
